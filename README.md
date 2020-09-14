@@ -4,7 +4,7 @@ Brief description here
 
 ## Author
 
-FirstName LastName (email@berkeley.edu)
+Areeb Khalfay (areebk@berkeley.edu)
 
 ## Video Link
 
