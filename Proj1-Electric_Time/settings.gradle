@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Proj1-Electric_Time"
