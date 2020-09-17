@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Electric_Time</string>
+    <string name="multiautocompletetextview">MultiAutoCompleteTextView</string>
+    <string name="electric_time_find_out_how_long_it_takes_to_get_there">Electric Time: Find out how long it takes to get there!</string>
+    <string name="press_the_button_below_to_find_out">Press the button below to find out!</string>
+    <string name="select_from_the_following">Select From the Following</string>
+    <string name="select_from_the_following_options">Select from the following options</string>
+    <string name="choose_an_option">Choose an option!</string>
+    <string name="textview">TextView</string>
+    <string name="choose_an_option_please">Choose An Option Please</string>
+    <string name="walking">Walking</string>
+    <string name="Boosted_Mini_S" />
+    <string name="boosted_mini_s">Boosted Mini S</string>
+    <string name="evolve_bamboo_gtr_2in1">Evolve Bamboo GTR 2in1</string>
+    <string name="evolve_bamboo_gtr_2n1">Evolve Bamboo GTR 2n1</string>
+    <string name="evolve_bamboo_gtr">Evolve Bamboo GTR</string>
+    <string name="segway_ninebot_s_plus">Segway Ninebot S-Plus</string>
+    <string name="evolve_bamboo_gtr_2in1">Evolve Bamboo GTR 2in1</string>
+    <string name="razor_hovertrax_hoverboard">Razor Hovertrax Hoverboard</string>
+    <string name="extras">Extras!</string>
+    <string name="boosted_mini_s">Boosted Mini S</string>
+    <string name="walking">Walking</string>
+    <string name="evolve_bamboo_gtr_2in1">Evolve Bamboo GTR 2in1</string>
+    <string name="extra_menu">Extra Menu</string>
+    <string name="razor_hovertrax_hoverboard">Razor Hovertrax Hoverboard</string>
+    <string name="segway_ninebot_s_plus">Segway Ninebot S-Plus</string>
 </resources>
