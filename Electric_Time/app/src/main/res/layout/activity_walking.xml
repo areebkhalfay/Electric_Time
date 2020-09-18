@@ -25,7 +25,7 @@
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/enter_the_distance_below"
+        android:text="@string/enter_distance_time_below"
         android:textColor="#E91E63"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/inputDistance"
@@ -53,6 +53,7 @@
         android:layout_marginBottom="332dp"
         android:onClick="sendMessage"
         android:text="@string/go"
+        android:background="@drawable/rounded_corner_walking"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -64,9 +65,11 @@
         android:layout_height="wrap_content"
         android:text="@string/distance_mi"
         android:textSize="15sp"
+        android:textColor="#673AB7"
         app:layout_constraintBottom_toBottomOf="@+id/inputDistance"
         app:layout_constraintEnd_toStartOf="@+id/inputDistance"
         app:layout_constraintHorizontal_bias="0.948"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/inputDistance" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

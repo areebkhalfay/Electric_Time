@@ -35,4 +35,7 @@
     <string name="evolve_bamboo_gtr_2in1_minutes">Evolve Bamboo GTR 2in1 (Minutes):</string>
     <string name="segway_ninebot_s_plus_minutes">Segway NineBot S-Plus (Minutes):</string>
     <string name="hovertrax_hoverboard_minutes">Hovertrax Hoverboard (Minutes):</string>
+    <string name="hovertrax_hoverboard">Hovertrax Hoverboard</string>
+    <string name="enter_distance_time_below">Enter Distance/Time Below!</string>
+    <string name="time_minutes">Time(Minutes):</string>
 </resources>

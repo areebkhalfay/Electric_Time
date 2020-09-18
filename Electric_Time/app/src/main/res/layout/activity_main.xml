@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background"
     tools:context=".MainActivity">
 
     <TextView
@@ -12,8 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="76dp"
         android:text="@string/electric_time_find_out_how_long_it_takes_to_get_there"
-        android:textColor="#03A9F4"
-        android:textSize="16sp"
+        android:textColor="#9C27B0"
+        android:textSize="17sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.484"
@@ -26,6 +27,7 @@
         android:layout_height="76dp"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
+        android:background="@drawable/rounded_corner_segway_ninebot_s_plus"
         android:contentDescription="@string/press_the_button_below_to_find_out"
         android:onClick="enterApp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -40,6 +42,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
+        android:textColor="#E91E63"
+        android:textSize="17sp"
         android:text="@string/press_the_button_below_to_find_out"
         app:layout_constraintBottom_toTopOf="@+id/imageButton4"
         app:layout_constraintEnd_toEndOf="parent"
