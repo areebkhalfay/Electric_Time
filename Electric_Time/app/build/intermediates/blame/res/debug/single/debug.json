@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_segway_n_plus.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/segway_n_plus.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable-v24_rounded_corner_hovertrax_hoverboard.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable-v24/rounded_corner_hovertrax_hoverboard.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_walking2.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_walking2.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable-v24_rounded_corner_boosted_mini_s.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable-v24/rounded_corner_boosted_mini_s.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_hovertrax_hoverboard2.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_hovertrax_hoverboard2.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_boosted_mini_s.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_boosted_mini_s.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable-v24_rounded_corner_extras.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable-v24/rounded_corner_extras.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_extra_menu.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_extra_menu.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_main_menu.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_extrasfinal_color.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/extrasfinal_color.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_background.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_segway_ninebot_s_plus.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_segway_ninebot_s_plus.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_boosted_mini_s2.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_boosted_mini_s2.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_boosted_mini_s.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/boosted_mini_s.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_walking.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_walking.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_segway_ninebot_s_plus2.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_segway_ninebot_s_plus2.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable-v24_rounded_corner_walking.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable-v24/rounded_corner_walking.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable-v24_rounded_corner_evolve_bamboo_gtr_2n1.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable-v24/rounded_corner_evolve_bamboo_gtr_2n1.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_hovertrax_hoverboard.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/hovertrax_hoverboard.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_gtr_bamboo_st_main.jpg.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/gtr_bamboo_st_main.jpg"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable-v24_rounded_corner_segway_ninebot_s_plus.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable-v24/rounded_corner_segway_ninebot_s_plus.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_walking_filled1600.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/walking_filled1600.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_skateboarding_512.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/skateboarding_512.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/drawable_evolve_bamboo.png.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/drawable/evolve_bamboo.png"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_evolve_bamboo_g_t_r2in12.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_evolve_bamboo_g_t_r2in12.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_evolve_bamboo_g_t_r2in1.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_evolve_bamboo_g_t_r2in1.xml"
+    },
+    {
+        "merged": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/build/intermediates/res/merged/debug/layout_activity_hovertrax_hoverboard.xml.flat",
+        "source": "/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/res/layout/activity_hovertrax_hoverboard.xml"
+    }
+]

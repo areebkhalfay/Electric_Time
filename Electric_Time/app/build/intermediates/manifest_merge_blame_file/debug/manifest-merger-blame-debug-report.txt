@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.electric_time"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:5:5-31:19
+12        android:allowBackup="true"
+12-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] /Users/denmum/.gradle/caches/transforms-2/files-2.1/ae3468b444d41a56f261ecbb8448fe17/core-1.3.1/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:11:9-40
+21        <activity android:name="com.example.electric_time.HovertraxHoverboardActivity2" />
+21-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:12:9-75
+21-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:12:19-63
+22        <activity android:name="com.example.electric_time.SegwayNinebotSPlusActivity2" />
+22-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:13:9-65
+22-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:13:19-62
+23        <activity android:name="com.example.electric_time.EvolveBambooGTR2in1Activity2" />
+23-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:14:9-66
+23-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:14:19-63
+24        <activity android:name="com.example.electric_time.BoostedMiniSActivity2" />
+24-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:15:9-59
+24-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:15:19-56
+25        <activity android:name="com.example.electric_time.WalkingActivity2" />
+25-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:16:9-54
+25-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:16:19-51
+26        <activity android:name="com.example.electric_time.ExtraMenuActivity" />
+26-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:17:9-55
+26-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:17:19-52
+27        <activity android:name="com.example.electric_time.HovertraxHoverboardActivity" />
+27-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:18:9-65
+27-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:18:19-62
+28        <activity android:name="com.example.electric_time.SegwayNinebotSPlusActivity" />
+28-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:19:9-64
+28-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:19:19-61
+29        <activity android:name="com.example.electric_time.EvolveBambooGTR2in1Activity" />
+29-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:20:9-65
+29-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:20:19-62
+30        <activity android:name="com.example.electric_time.BoostedMiniSActivity" />
+30-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:21:9-58
+30-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:21:19-55
+31        <activity android:name="com.example.electric_time.WalkingActivity" />
+31-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:22:9-53
+31-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:22:19-50
+32        <activity android:name="com.example.electric_time.MainMenuActivity" />
+32-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:23:9-54
+32-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:23:19-51
+33        <activity android:name="com.example.electric_time.MainActivity" >
+33-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:24:9-30:20
+33-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:24:19-47
+34            <intent-filter>
+34-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:25:13-29:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:26:17-69
+35-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:26:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:28:17-77
+37-->/Users/denmum/Documents/GitHub/prog01-fa2020-areebkhalfay/Electric_Time/app/src/main/AndroidManifest.xml:28:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>
