@@ -18,4 +18,21 @@
     <string name="razor_hovertrax_hoverboard">Razor Hovertrax Hoverboard</string>
     <string name="segway_ninebot_s_plus">Segway Ninebot S-Plus</string>
     <string name="choose_your_desired_form_of_electric_trapsort">Choose Your Desired Form of Electric TrapSort</string>
+    <string name="walking_image">Walking Image</string>
+    <string name="boosted_mini_s_image">Boosted Mini S Image</string>
+    <string name="evolve_bamboo_gtr_image">Evolve Bamboo GTR Image</string>
+    <string name="segway_n_plus_image">Segway N Plus Image</string>
+    <string name="hovertrax_hoverboard_image">Hovertrax Hoverboard Image</string>
+    <string name="extras_image">Extras Image</string>
+    <string name="go">Go!</string>
+    <string name="enter_the_distance_below">Enter the Distance Below!</string>
+    <string name="distance">Distance</string>
+    <string name="hello">Hello</string>
+    <string name="distance_mi">Distance(Mi):</string>
+    <string name="walking_time">Walking Time:</string>
+    <string name="walking_time_minutes">Walking Time(Minutes):</string>
+    <string name="boosted_mini_s_board_minutes">Boosted Mini S Board (Minutes):</string>
+    <string name="evolve_bamboo_gtr_2in1_minutes">Evolve Bamboo GTR 2in1 (Minutes):</string>
+    <string name="segway_ninebot_s_plus_minutes">Segway NineBot S-Plus (Minutes):</string>
+    <string name="hovertrax_hoverboard_minutes">Hovertrax Hoverboard (Minutes):</string>
 </resources>

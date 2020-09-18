@@ -33,8 +33,9 @@
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
             android:layout_margin="8dp"
-            android:onClick="enterWalking"
             android:background="@drawable/rounded_corner_walking"
+            android:onClick="enterWalking"
+            app:cardBackgroundColor="#00BCD4"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -43,11 +44,13 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
 
                 <ImageView
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/walking_image"
                     android:gravity='center'
                     android:padding="5dp"
                     android:src="@drawable/walking_filled1600" />
@@ -71,10 +74,13 @@
             android:layout_column="1"
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
-            android:layout_margin="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/rounded_corner_boosted_mini_s"
-
             android:onClick="enterBoostedMiniS"
+            app:cardBackgroundColor="#3F51B5"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp"
             tools:ignore="PrivateResource">
@@ -84,11 +90,13 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/boosted_mini_s_image"
                     android:src="@drawable/boosted_mini_s" />
 
                 <TextView
@@ -110,9 +118,13 @@
             android:layout_column="0"
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
-            android:layout_margin="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/rounded_corner_evolve_bamboo_gtr_2n1"
             android:onClick="enterEvolveBambooGTR2in1"
+            app:cardBackgroundColor="#E91E63"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -121,11 +133,13 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/evolve_bamboo_gtr_image"
                     android:src="@drawable/evolve_bamboo" />
 
                 <TextView
@@ -147,9 +161,13 @@
             android:layout_column="1"
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
-            android:layout_margin="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/rounded_corner_segway_ninebot_s_plus"
             android:onClick="enterSegwayNinebotSPlus"
+            app:cardBackgroundColor="#8BC34A"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -158,11 +176,13 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/segway_n_plus_image"
                     android:src="@drawable/segway_n_plus" />
 
                 <TextView
@@ -184,22 +204,29 @@
             android:layout_column="0"
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
-            android:layout_margin="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
             android:background="@drawable/rounded_corner_hovertrax_hoverboard"
             android:onClick="enterHovertraxHoverboard"
+            app:cardBackgroundColor="#F44336"
             app:cardCornerRadius="8dp"
-            app:cardElevation="8dp">
+            app:cardElevation="8dp"
+            >
 
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/hovertrax_hoverboard_image"
                     android:src="@drawable/hovertrax_hoverboard" />
 
                 <TextView
@@ -227,6 +254,7 @@
             android:layout_marginBottom="8dp"
             android:background="@drawable/rounded_corner_extras"
             android:onClick="enterExtraMenu"
+            app:cardBackgroundColor="#009688"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -240,6 +268,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/extras_image"
                     android:src="@drawable/extrasfinal_color" />
 
             </LinearLayout>
