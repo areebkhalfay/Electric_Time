@@ -1,6 +1,6 @@
 # PROG 01: Electric Time
 
-Brief description here
+Implementation of Prog 01 Electric Time for CS160 Fall 2020
 
 ## Author
 
@@ -8,6 +8,6 @@ Areeb Khalfay (areebk@berkeley.edu)
 
 ## Video Link
 
-youtube.com/yourLinkAddress
+https://youtu.be/cempuPMMuRw
 
 
